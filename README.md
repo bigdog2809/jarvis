@@ -1,4 +1,4 @@
-#jarvis
+# jarvis
 
 This is russian version!
  what you need to this work.
@@ -8,4 +8,4 @@ you need to make a api key and put it to gpt.py file.
 to API_KEY.
 
 
-###Not all functions can work for one reason or another###
+### Not all functions can work for one reason or another ###
