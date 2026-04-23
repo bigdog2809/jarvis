@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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" # сюда реальный ключ
+API_KEY = "your api key" # сюда реальный ключ
 
 url = "https://openrouter.ai/api/v1/chat/completions"
 
