@@ -13,7 +13,7 @@ you also need to add your phote and reneme it to me.jpeg
 
 
 ## what he can do?##
-translate
-parsing
-answer for qustions
-and more
+translate.
+parsing.
+answer for qustions.
+and more.
